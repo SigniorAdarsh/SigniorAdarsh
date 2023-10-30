@@ -8,7 +8,7 @@ Second-year undergraduate pursuing B.Tech in Mathematics and Computing at the In
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [adarsh.iitd.math@gmail.com](mailto:adarsh.iitd.math@gmail.com)
-* 🧠  I'm learning Web Development and Game Development
+* 🧠  I'm learning Machine Learning, Web Development and Game Development
 * 🤝  I'm open to collaborating on anything and everything that adds on to my CV
 * ⚡  Before sunset, I'm Snorlax, and post sunset, I'm Munchlax
 
